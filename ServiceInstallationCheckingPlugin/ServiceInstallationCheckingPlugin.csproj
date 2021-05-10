@@ -16,7 +16,7 @@
     <PackageReference Include="Microting.eFormApi.BasePn" Version="3.0.8" />
     <PackageReference Include="Microting.InstallationCheckingBase" Version="3.0.7" />
     <PackageReference Include="Microting.WindowsService.BasePn" Version="2.0.0" />
-    <PackageReference Include="System.ComponentModel.Composition" Version="4.7.0" />
+    <PackageReference Include="System.ComponentModel.Composition" Version="5.0.0" />
   </ItemGroup>
 
 </Project>
